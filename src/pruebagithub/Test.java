@@ -7,12 +7,10 @@ package pruebagithub;
 
 /**
  *
- * @author KenyStev
+ * @author zerokull
  */
-public class PruebaGithub {
-
-    public PruebaGithub(){
-        
+public class Test {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
     }
-    
 }
